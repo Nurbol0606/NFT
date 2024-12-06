@@ -1,0 +1,38 @@
+@media (max-width:1084px) {
+.logo- text {
+    max-width: 480px;
+    max-height: 500px;
+}
+
+    .logo h1 {
+        font-size: 57px;
+    }
+
+    .logo p {
+        font-size: 16px;
+    }
+
+    .logo-text h1 {
+        font-size: 40px;
+        max-width: 300px;
+        width: 100%;
+    }
+}
+@media (max-width:1084px) {
+    .logo-text p{
+        max-width: 480px;
+        width: 100%;
+    }
+    .burger-menu{
+        display: block;
+        justify-content: end;
+
+    }
+    .header nav {
+        display: none;
+        
+    }
+
+}
+
+
